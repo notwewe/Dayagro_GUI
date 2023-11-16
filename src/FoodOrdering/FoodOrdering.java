@@ -40,7 +40,7 @@ public class FoodOrdering extends JFrame {
         discountGroup.add(a10OffRadioButton);
         discountGroup.add(a15OffRadioButton);
 
-        setLayout(new GridLayout(12, 1));
+        setLayout(new GridLayout(16, 1));
 
         add(new JLabel("Select Food Items:"));
         add(pizzaCheckBox);
@@ -93,7 +93,7 @@ public class FoodOrdering extends JFrame {
 
         FoodOrdering app = new FoodOrdering();
         app.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        app.setSize(300, 400);
+        app.setSize(500, 600);
         app.setTitle("Food Ordering System");
         app.setVisible(true);
     }

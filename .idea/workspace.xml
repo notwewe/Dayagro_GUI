@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f6d45c3-ee4b-4eb6-a29a-9f7a18b1732c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dayagro_GUI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FoodOrdering/FoodOrdering.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FoodOrdering/FoodOrdering.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeapYear/LeapYear.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeapYear/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimpleCalculator/SimpleCalculator.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimpleCalculator/SimpleCalculator.java" afterDir="false" />
-    </list>
+    <list default="true" id="1f6d45c3-ee4b-4eb6-a29a-9f7a18b1732c" name="Changes" comment="Done Food Ordering System" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +48,18 @@
       <option name="presentableId" value="Default" />
       <updated>1700120022096</updated>
     </task>
+    <task id="LOCAL-00001" summary="Done Food Ordering System">
+      <created>1700126938042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700126938042</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Done Food Ordering System" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done Food Ordering System" />
   </component>
 </project>

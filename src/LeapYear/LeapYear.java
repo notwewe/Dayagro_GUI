@@ -51,7 +51,7 @@ public class LeapYear extends JFrame {
     public static void main(String[] args) {
         LeapYear app = new LeapYear();
 
-        app.setSize(800, 600);
+        app.setSize(500, 400);
         app.setDefaultCloseOperation(EXIT_ON_CLOSE);
         app.setVisible(true);
         app.setTitle("Leap Year Checker");

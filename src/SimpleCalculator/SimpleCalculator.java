@@ -19,6 +19,7 @@ public class SimpleCalculator extends JFrame {
         tfNumber2 = new JTextField(10);
         cbOperations = new JComboBox<>(new String[]{"+", "-", "*", "/"});
         btnCompute = new JButton("Compute");
+
         lblResult = new JLabel("Result: ");
 
         setLayout(new BoxLayout(getContentPane(), BoxLayout.PAGE_AXIS));
@@ -68,6 +69,7 @@ public class SimpleCalculator extends JFrame {
                     break;
             }
 
+            System.out.println("/n");
             lblResult.setText("Result: " + result);
         } catch (NumberFormatException ex) {
             JOptionPane.showMessageDialog(this, "Invalid input. Please enter valid numbers.");
@@ -80,7 +82,7 @@ public class SimpleCalculator extends JFrame {
 
         app.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         app.setTitle("Simple Calculator");
-        app.setSize(300, 200);
+        app.setSize(400, 200);
         app.setVisible(true);
     }
 }
